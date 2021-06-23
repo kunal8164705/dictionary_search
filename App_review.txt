@@ -1,0 +1,14 @@
+App Interface and User Reporting issues found
+
+> App Dashboard looks cluttered as most of the accesibilty menus are directly given on the dashboard itself
+> The very bottom option on dashboard to display road details should be the only option on dashboard or either on the top of the dashboard
+> The waiting message of "Loading Tweets Please wait... :Batch3" while loading more tweets with incremental Batch id can be easily replaced by "Loading more tweets.." without letting the user know how much cycles the user has crossed
+> Vehicle Idle Time should be having additional attributes displayed on the graph
+> Notification and My Geo Fences menu should have a message as "No Notifications Available" and "No Updates Available" respectively
+> KMS Summary panel should have units marked as neither the menu nor the details are completely specifying the type of details they present
+> The Driver List should provide more history of the driver like his last few drive records rather than directly redirecting to calling application
+> The vehicle search panel should have the searching option on the top middle or can either be shown as a record of previous searches
+> The Vehicle Search option can be implemented on the bottom right hand of the Dashboard in the similar manner as done on Vehicle Search Panel
+> Application Version should not be displayed as a Pop-up message as it does not serve the purpose of having a seperate menu item on the Left panel. Instead the application version could be statically displayed in the About section of app along with Reach Us details in a single panel
+
+
